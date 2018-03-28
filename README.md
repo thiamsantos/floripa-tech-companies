@@ -14,8 +14,10 @@ Nome | Tecnologias
 [Cianet](https://www.cianet.com.br/) | `Python`
 [Decora](https://home.decoracontent.com) | `Java`, `Angular`
 [Ecentry](http://ecentry.com/) | `Python`
+[Involves](https://www.involves.com.br/pt) | `Java`, `Angular`
 [Myreks](https://www.myreks.com/v3/) | `Python`
 [Neoprospecta](https://neoprospecta.com/) | `Python`
+[Neoway](https://www.neoway.com.br/) | `Go`
 [Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React`
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python`
 
