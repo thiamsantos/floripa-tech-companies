@@ -1,7 +1,7 @@
 # floripa-tech-companies
 Lista de empresas de tecnologia em Floripa e região.
 
-Envie um pull requests se você tiver quaisquer adições ou alterações.
+Por favor, envie um pull request se você tiver quaisquer adições ou alterações.
 
 ## Empresas
 
