@@ -18,6 +18,7 @@ Nome | Tecnologias
 [Myreks](https://www.myreks.com/v3/) | `Python`
 [Neoprospecta](https://neoprospecta.com/) | `Python`
 [Neoway](https://www.neoway.com.br/) | `Go`
+[PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular`
 [Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React`
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python`
 
