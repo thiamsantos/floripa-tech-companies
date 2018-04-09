@@ -8,6 +8,7 @@ Por favor, envie um pull request se você tiver quaisquer adições ou alteraç�
 Nome | Tecnologias
 ---- | -----------
 [Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python`
+[ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift`
 [Axado](https://www.axado.com.br/) | `Python`
 [Byne](http://www.byne.com.br/) | `Python`
 [Cheesecake Labs](https://cheesecakelabs.com/) | `Python`
