@@ -11,7 +11,8 @@ Nome | Tecnologias | Localização
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
-[Bulldesk](https://bulldesk.com.br/) | ``PHP`, `Laravel`
+[Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
+[Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby` | Lagoa da Conceição
 [Cheesecake Labs](https://cheesecakelabs.com/) | `Python` | Trindade, Florianópolis
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa,Florianópolis
 [Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
