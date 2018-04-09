@@ -5,23 +5,23 @@ Por favor, envie um pull request se você tiver quaisquer adições ou alteraç�
 
 ## Empresas
 
-Nome | Tecnologias
----- | -----------
-[Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python`
-[ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift`
-[Axado](https://www.axado.com.br/) | `Python`
-[Byne](http://www.byne.com.br/) | `Python`
-[Cheesecake Labs](https://cheesecakelabs.com/) | `Python`
-[Cianet](https://www.cianet.com.br/) | `Python`
-[Decora](https://home.decoracontent.com) | `Java`, `Angular`
-[Ecentry](http://ecentry.com/) | `Python`
-[Involves](https://www.involves.com.br/pt) | `Java`, `Angular`
-[Myreks](https://www.myreks.com/v3/) | `Python`
-[Neoprospecta](https://neoprospecta.com/) | `Python`
-[Neoway](https://www.neoway.com.br/) | `Go`
-[PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular`
-[Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React`
-[Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python`
+Nome | Tecnologias | Localização
+---- | ----------- | -----------
+[Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python` | Saco Grande, Florianópolis
+[ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
+[Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
+[Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
+[Cheesecake Labs](https://cheesecakelabs.com/) | `Python` | Trindade, Florianópolis
+[Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa,Florianópolis
+[Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
+[Ecentry](http://ecentry.com/) | `Python` | Centro, Florianópolis
+[Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
+[Myreks](https://www.myreks.com/v3/) | `Python` | João Paulo, Florianópolis
+[Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis
+[Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis
+[PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular` | Pedra Branca, Palhoça
+[Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis
+[Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis
 
 
 ## Licença
