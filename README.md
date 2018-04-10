@@ -26,6 +26,7 @@ Nome | Tecnologias | Localização
 [Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis
+[SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis
 
 
 ## Licença
