@@ -12,7 +12,7 @@ Nome | Tecnologias | Localização
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
-[Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby` | Lagoa da Conceição
+[Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição
 [Cheesecake Labs](https://cheesecakelabs.com/) | `Python` | Trindade, Florianópolis
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa,Florianópolis
 [Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
