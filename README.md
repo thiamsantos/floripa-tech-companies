@@ -27,7 +27,7 @@ Nome | Tecnologias | Localização
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis
 [SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis
-[Todo Bit](http://todobit.com.br//) | `React`,  `JavaScript (ES6)` | Forquilhinhas, São José
+[TodoBit](http://todobit.com.br//) | `PHP`,  `JavaScript` | Forquilhinhas, São José
 
 
 ## Licença
