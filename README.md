@@ -13,7 +13,7 @@ Nome | Tecnologias | Localização
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição
-[Cheesecake Labs](https://cheesecakelabs.com/) | `JavaScript`, `Python` | Trindade, Florianópolis
+[Cheesecake Labs](https://cheesecakelabs.com/) | `ReactJS`, `Angular`, `JavaScript`, `Django`, `Python`, `Swift`, `Kotlin` | Trindade, Florianópolis
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa,Florianópolis
 [Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
 [Ecentry](http://ecentry.com/) | `Python` | Centro, Florianópolis
