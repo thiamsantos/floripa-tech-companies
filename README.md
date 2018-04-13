@@ -13,7 +13,7 @@ Nome | Tecnologias | Localização
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição
-[Cheesecake Labs](https://cheesecakelabs.com/) | `Python` | Trindade, Florianópolis
+[Cheesecake Labs](https://cheesecakelabs.com/) | `JavaScript`, `Python` | Trindade, Florianópolis
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa,Florianópolis
 [Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
 [Ecentry](http://ecentry.com/) | `Python` | Centro, Florianópolis
@@ -27,6 +27,7 @@ Nome | Tecnologias | Localização
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis
 [SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis
+[Todo Bit](http://todobit.com.br//) | `React`,  `JavaScript (ES6)` | Forquilhinhas, São José
 
 
 ## Licença
