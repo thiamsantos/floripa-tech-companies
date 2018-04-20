@@ -14,12 +14,17 @@ Nome | Tecnologias | Localização
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição
 [Cheesecake Labs](https://cheesecakelabs.com/) | `ReactJS`, `Angular`, `JavaScript`, `Django`, `Python`, `Swift`, `Kotlin` | Trindade, Florianópolis
-[Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa,Florianópolis
+[Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa, Florianópolis
+[Conta Mínima](https://www.contaminima.com.br/) | `Java`, `Ionic/Android` | Barreiros, São José
 [Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
+[Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis
 [Ecentry](http://ecentry.com/) | `Python` | Centro, Florianópolis
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
+[GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis
 [Myreks](https://www.myreks.com/v3/) | `Python` | João Paulo, Florianópolis
+[MobLee](https://www.moblee.com.br) | `React`, `GraphQL`, `JS`, `PHP` | Itacorubi, Florianópolis
+[M2Agro](https://www.m2agro.com.br/) | `Python ` | Florianópolis
 [Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis
 [Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis
 [PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular` | Pedra Branca, Palhoça
@@ -28,6 +33,7 @@ Nome | Tecnologias | Localização
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis
 [SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade
+[Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis
 [TodoBit](http://todobit.com.br//) | `PHP`,  `JavaScript` | Forquilhinhas, São José
 
 
