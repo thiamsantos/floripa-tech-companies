@@ -21,6 +21,7 @@ Nome | Tecnologias | Localização
 [Ecentry](http://ecentry.com/) | `Python` | Centro, Florianópolis
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
+[McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis
 [Myreks](https://www.myreks.com/v3/) | `Python` | João Paulo, Florianópolis
 [MobLee](https://www.moblee.com.br) | `React`, `GraphQL`, `JS`, `PHP` | Itacorubi, Florianópolis
