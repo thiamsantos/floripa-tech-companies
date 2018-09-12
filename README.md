@@ -8,6 +8,7 @@ Por favor, envie um pull request se você tiver quaisquer adições ou alteraç�
 Nome | Tecnologias | Localização
 ---- | ----------- | -----------
 [Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python` | Saco Grande, Florianópolis
+[Ahgora Sistemas](https://www.ahgora.com.br) | `PHP`, `Node.js`, `React`, `Vue.js`, `Angular` |  ParqTec Alfa - João Paulo, Florianópolis
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
