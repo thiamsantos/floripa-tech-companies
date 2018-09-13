@@ -11,6 +11,7 @@ Nome | Tecnologias | Localização
 [Ahgora Sistemas](https://www.ahgora.com.br) | `PHP`, `Node.js`, `React`, `Vue.js`, `Angular` |  ParqTec Alfa - João Paulo, Florianópolis
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
+[BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição
@@ -20,7 +21,9 @@ Nome | Tecnologias | Localização
 [Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis
+[Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
+[GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis 
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis
@@ -41,4 +44,4 @@ Nome | Tecnologias | Localização
 
 ## Licença
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
