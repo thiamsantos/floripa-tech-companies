@@ -11,6 +11,7 @@ Nome | Tecnologias | Localização
 [Ahgora Sistemas](https://www.ahgora.com.br) | `PHP`, `Node.js`, `React`, `Vue.js`, `Angular` |  ParqTec Alfa - João Paulo, Florianópolis
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
+[BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição
