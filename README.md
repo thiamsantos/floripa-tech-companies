@@ -28,7 +28,7 @@ Nome | Tecnologias | Localização
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis
 [Myreks](https://www.myreks.com/v3/) | `Python` | João Paulo, Florianópolis
-[myTapp](https://www.mytapp.com.br) | `Node.js`, `Angularjs`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis
+[myTapp](https://www.mytapp.com.br) | `Node.js`, `AngularJS`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis
 [MobLee](https://www.moblee.com.br) | `React`, `GraphQL`, `JS`, `PHP` | Itacorubi, Florianópolis
 [M2Agro](https://www.m2agro.com.br/) | `Python ` | Florianópolis
 [Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis
