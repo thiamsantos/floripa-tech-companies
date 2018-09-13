@@ -19,7 +19,7 @@ Nome | Tecnologias | Localização
 [Conta Mínima](https://www.contaminima.com.br/) | `Java`, `Ionic/Android` | Barreiros, São José
 [Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis
-[Ecentry](http://ecentry.com/) | `Python` | Centro, Florianópolis
+[Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
