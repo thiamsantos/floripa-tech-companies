@@ -32,6 +32,7 @@ Nome | Tecnologias | Localização
 [M2Agro](https://www.m2agro.com.br/) | `Python ` | Florianópolis
 [Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis
 [Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis
+[Nextt](https://www.nextt.com.br/) | `Node.js`, `PHP`, `Angular` | Centro, Florianópolis
 [PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular` | Pedra Branca, Palhoça
 [Progic](http://progic.com.br/) | `Java`, `JSF`,`VueJS`, `C++`, `Flash` | Itacorubi, Florianópolis
 [Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis
