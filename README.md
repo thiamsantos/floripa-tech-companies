@@ -27,6 +27,7 @@ Nome | Tecnologias | Localização
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis
+[Mint](http://mintlab.com.br/) | `PHP`, `Javascript`, `AngularJS`, `Ionic` | Santa Mônica, Florianópolis
 [Myreks](https://www.myreks.com/v3/) | `Python` | João Paulo, Florianópolis
 [myTapp](https://www.mytapp.com.br) | `Node.js`, `AngularJS`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis
 [MobLee](https://www.moblee.com.br) | `React`, `GraphQL`, `JS`, `PHP` | Itacorubi, Florianópolis
