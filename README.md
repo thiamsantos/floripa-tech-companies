@@ -10,6 +10,7 @@ Nome | Tecnologias | Localização
 [Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python` | Saco Grande, Florianópolis
 [Ahgora Sistemas](https://www.ahgora.com.br) | `PHP`, `Node.js`, `React`, `Vue.js`, `Angular` |  ParqTec Alfa - João Paulo, Florianópolis
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
+[Apollus](http://apollusehs.com.br/) | `Java`, `AngularJS`, `Angular`, `Redis`, `PostgreSQL` | Kobrassol, São José
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
 [BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis
@@ -24,6 +25,7 @@ Nome | Tecnologias | Localização
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis
 [Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
+[Geomais](http://www.geomais.com.br/) | `Java`, `Javascript`, `React`, `GeoServer`, `Redis`, `PostgreSQL` | Campinas, São José
 [GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis 
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
