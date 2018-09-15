@@ -9,13 +9,13 @@ Nome | Tecnologias | Localização
 ---- | ----------- | -----------
 [Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python` | Saco Grande, Florianópolis
 [Ahgora Sistemas](https://www.ahgora.com.br) | `PHP`, `Node.js`, `React`, `Vue.js`, `Angular` |  ParqTec Alfa - João Paulo, Florianópolis
-[ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
 [Apollus](http://apollusehs.com.br/) | `Java`, `AngularJS`, `Angular`, `Redis`, `PostgreSQL` | Kobrassol, São José
+[ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
 [BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis
-[Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
+[Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição
 [Cheesecake Labs](https://cheesecakelabs.com/) | `ReactJS`, `Angular`, `JavaScript`, `Django`, `Python`, `Swift`, `Kotlin` | Trindade, Florianópolis
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa, Florianópolis
@@ -23,18 +23,18 @@ Nome | Tecnologias | Localização
 [Decora](https://home.decoracontent.com) | `Java`, `Angular` | Saco Grande, Florianópolis
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis
-[Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José
-[Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
 [Geomais](http://www.geomais.com.br/) | `Java`, `Javascript`, `React`, `GeoServer`, `Redis`, `PostgreSQL` | Campinas, São José
 [GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis 
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
+[Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José
+[Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis
+[M2Agro](https://www.m2agro.com.br/) | `Python ` | Florianópolis
 [Mint](http://mintlab.com.br/) | `PHP`, `Javascript`, `AngularJS`, `Ionic` | Santa Mônica, Florianópolis
+[MobLee](https://www.moblee.com.br) | `React`, `GraphQL`, `JS`, `PHP` | Itacorubi, Florianópolis
 [Myreks](https://www.myreks.com/v3/) | `Python` | João Paulo, Florianópolis
 [myTapp](https://www.mytapp.com.br) | `Node.js`, `AngularJS`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis
-[MobLee](https://www.moblee.com.br) | `React`, `GraphQL`, `JS`, `PHP` | Itacorubi, Florianópolis
-[M2Agro](https://www.m2agro.com.br/) | `Python ` | Florianópolis
 [Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis
 [Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis
 [Nextt](https://www.nextt.com.br/) | `Node.js`, `PHP`, `Angular` | Centro, Florianópolis
@@ -47,7 +47,7 @@ Nome | Tecnologias | Localização
 [Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade
 [Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis
-[TodoBit](http://todobit.com.br//) | `PHP`,  `JavaScript` | Forquilhinhas, São José
+[TodoBit](http://todobit.com.br/) | `PHP`,  `JavaScript` | Forquilhinhas, São José
 
 
 ## Licença
