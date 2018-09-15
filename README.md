@@ -51,6 +51,7 @@ Nome | Tecnologias | Localização
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade
 [Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis
 [TodoBit](http://todobit.com.br/) | `PHP`,  `JavaScript` | Forquilhinhas, São José
+[Vios](http://vios.com.br/) | `PHP` | Florianópolis
 [Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis
 [Winker](https://www.winker.com.br/) | `PHP` | Florianópolis
 
