@@ -52,6 +52,7 @@ Nome | Tecnologias | Localização
 [Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis
 [TodoBit](http://todobit.com.br/) | `PHP`,  `JavaScript` | Forquilhinhas, São José
 [Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis
+[Winker](https://www.winker.com.br/) | `PHP` | Florianópolis
 
 
 ## Licença
