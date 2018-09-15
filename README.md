@@ -16,6 +16,7 @@ Nome | Tecnologias | Localização
 [BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
+[Cellmídia](http://www.cellmidia.com.br/site/) | `PHP` | Florianópolis
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição
 [Cheesecake Labs](https://cheesecakelabs.com/) | `ReactJS`, `Angular`, `JavaScript`, `Django`, `Python`, `Swift`, `Kotlin` | Trindade, Florianópolis
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa, Florianópolis
