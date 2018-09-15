@@ -43,6 +43,7 @@ Nome | Tecnologias | Localização
 [Progic](http://progic.com.br/) | `Java`, `JSF`,`VueJS`, `C++`, `Flash` | Itacorubi, Florianópolis
 [Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis
+[SocialBase](https://socialbase.com.br/) | `PHP`, `MySQL` | Florianópolis
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis
 [SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis
 [Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis
