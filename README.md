@@ -30,6 +30,7 @@ Nome | Tecnologias | Localização
 [INBEP](http://inbep.com.br/) | `PHP`, `PostgreSQL` | Itacorubi, Florianópolis
 [Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
+[KM Online](https://kmonline.com.br/) | `Ruby`, `Elixir`, `MongoDB` | Saco Grande, Florianópolis
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis
 [M2Agro](https://www.m2agro.com.br/) | `Python ` | Florianópolis
