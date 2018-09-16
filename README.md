@@ -15,7 +15,7 @@ Nome | Tecnologias | Localização |    Vagas
 [Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python` | Saco Grande, Florianópolis | 
 [Ahgora Sistemas](https://www.ahgora.com.br) | `PHP`, `Node.js`, `React`, `Vue.js`, `Angular` |  ParqTec Alfa - João Paulo, Florianópolis |
 [Apollus](http://apollusehs.com.br/) | `Java`, `AngularJS`, `Angular`, `Redis`, `PostgreSQL` | Kobrassol, São José |
-[ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis | [Lista] (https://bit.ly/2xl81q8)  
+[ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xl81q8)  
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis | [Lista](https://bit.ly/2NezJPS)
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis |
 [BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis | [Lista](https://bit.ly/2NSDXwo)
