@@ -26,7 +26,7 @@ Nome | Tecnologias | Localização
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis
 [Geomais](http://www.geomais.com.br/) | `Java`, `Javascript`, `React`, `GeoServer`, `Redis`, `PostgreSQL` | Campinas, São José
-[GeekHunter](*https://www.geekhunter.com.br/) | `Java`, `Python`, `Rails` | João Paulo, Florianópolis
+[GeekHunter](https://www.geekhunter.com.br/) | `Java`, `Python`, `Rails` | João Paulo, Florianópolis
 [GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis 
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
 [INBEP](http://inbep.com.br/) | `PHP`, `PostgreSQL` | Itacorubi, Florianópolis
