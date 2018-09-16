@@ -54,6 +54,7 @@ Nome | Tecnologias | Localização
 [Stock & Info](http://www.stockinfo.com.br/) | `Java`, `MySQL` | Trindade, FLorianópolis
 [SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis
 [Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis
+[Supero](https://www.supero.com.br/) | `Java`, `C#`, `PHP`, `Python`, `Angular` | Itacorubi, Florianópolis
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade
 [Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis
 [TodoBit](http://todobit.com.br/) | `PHP`,  `JavaScript` | Forquilhinhas, São José
