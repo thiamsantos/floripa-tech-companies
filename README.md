@@ -29,6 +29,7 @@ Nome | Tecnologias | Localização
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis
 [INBEP](http://inbep.com.br/) | `PHP`, `PostgreSQL` | Itacorubi, Florianópolis
 [Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José
+[Improving](https://www.improving.com.br/) | `Java`, `Ruby`, `Angular` | Florianópolis
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis
 [KM Online](https://kmonline.com.br/) | `Ruby`, `Elixir`, `MongoDB` | Saco Grande, Florianópolis
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis
