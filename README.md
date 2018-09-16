@@ -37,24 +37,24 @@ Nome | Tecnologias | Localização |    Vagas
 [Mint](http://mintlab.com.br/) | `PHP`, `Javascript`, `AngularJS`, `Ionic` | Santa Mônica, Florianópolis | 
 [MobLee](https://www.moblee.com.br) | `React`, `GraphQL`, `JS`, `PHP` | Itacorubi, Florianópolis | https://moblee.recruitee.com/
 [Myreks](https://www.myreks.com/) | `Python` | João Paulo, Florianópolis | 
-[myTapp](https://www.mytapp.com.br) | `Node.js`, `AngularJS`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis
-[Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis
-[Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis
-[Nextt](https://www.nextt.com.br/) | `Node.js`, `PHP`, `Angular` | Centro, Florianópolis
-[PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular` | Pedra Branca, Palhoça
-[Progic](http://progic.com.br/) | `Java`, `JSF`,`VueJS`, `C++`, `Flash` | Itacorubi, Florianópolis
-[Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis
-[Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis
-[SocialBase](https://socialbase.com.br/) | `PHP`, `MySQL` | Florianópolis
-[Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis
-[SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis
-[Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis
-[Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade
-[Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis
-[TodoBit](http://todobit.com.br/) | `PHP`,  `JavaScript` | Forquilhinhas, São José
-[Vios](http://vios.com.br/) | `PHP` | Florianópolis
-[Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis
-[Winker](https://www.winker.com.br/) | `PHP` | Florianópolis
+[myTapp](https://www.mytapp.com.br) | `Node.js`, `AngularJS`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis | 
+[Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis | https://neoprospecta.com/carreira/
+[Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis | https://jobs.kenoby.com/neoway/
+[Nextt](https://www.nextt.com.br/) | `Node.js`, `PHP`, `Angular` | Centro, Florianópolis | https://www.nextt.com.br/#
+[PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular` | Pedra Branca, Palhoça | 
+[Progic](http://progic.com.br/) | `Java`, `JSF`,`VueJS`, `C++`, `Flash` | Itacorubi, Florianópolis | https://progic.com.br/trabalhe-na-progic/
+[Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis | https://bit.ly/2xeH3AX
+[Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis | 
+[SocialBase](https://socialbase.com.br/) | `PHP`, `MySQL` | Florianópolis | https://socialbase.workable.com/
+[Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis | https://jobs.kenoby.com/softplan
+[SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis | https://sumone.gupy.io/
+[Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis | https://suntech.com.br/carreira/profissionais
+[Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade  | https://blog.taller.net.br/taller-contrata/
+[Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis | https://teltecsolutions.com.br/trabalhe-conosco/
+[TodoBit](http://todobit.com.br/) | `PHP`,  `JavaScript` | Forquilhinhas, São José | 
+[Vios](http://vios.com.br/) | `PHP` | Florianópolis |
+[Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis |
+[Winker](https://www.winker.com.br/) | `PHP` | Florianópolis |
     
     
 ## Licença
