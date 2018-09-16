@@ -13,6 +13,7 @@ Nome | Tecnologias | Localização
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis
+[Bravi](https://www.bravi.com.br/) | `Java`, `Angular`, `PHP`, `NodeJS`, `Python`, `C#`, `MySQL`, `PostgreSQL` | Santa Mônica, Florianópolis
 [BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel`
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis
