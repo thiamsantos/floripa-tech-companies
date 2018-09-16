@@ -44,6 +44,7 @@ Nome | Tecnologias | Localização
 [PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular` | Pedra Branca, Palhoça
 [Progic](http://progic.com.br/) | `Java`, `JSF`,`VueJS`, `C++`, `Flash` | Itacorubi, Florianópolis
 [Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis
+[Segware](http://www.segware.com.br/) | `Java`, `MySQL`, `MongoDB` | Santa Mônica, Florianópolis
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis
 [SocialBase](https://socialbase.com.br/) | `PHP`, `MySQL` | Florianópolis
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis
