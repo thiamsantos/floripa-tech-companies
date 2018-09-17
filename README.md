@@ -18,6 +18,7 @@ Nome | Tecnologias | Localização |    Vagas
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xl81q8)  
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis | [Lista](https://bit.ly/2NezJPS)
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis |
+[Bravi](https://www.bravi.com.br/) | `Java`, `Angular`, `PHP`, `NodeJS`, `Python`, `C#`, `MySQL`, `PostgreSQL` | Santa Mônica, Florianópolis | [Lista](https://www.bravi.com.br/)
 [BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis | [Lista](https://bit.ly/2NSDXwo)
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel` | 
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis | 
@@ -30,10 +31,12 @@ Nome | Tecnologias | Localização |    Vagas
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2xdPsVg)
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis | 
 [Geomais](http://www.geomais.com.br/) | `Java`, `Javascript`, `React`, `GeoServer`, `Redis`, `PostgreSQL` | Campinas, São José | 
+[GeekHunter](https://www.geekhunter.com.br/) | `Java`, `Python`, `Rails` | João Paulo, Florianópolis | 
 [GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis  | [Contato](https://bit.ly/2xn5MT5)
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis | 
 [INBEP](http://inbep.com.br/) | `PHP`, `PostgreSQL` | Itacorubi, Florianópolis | 
 [Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José | [Currículo](https://bit.ly/2qXEVcY)
+[Improving](https://www.improving.com.br/) | `Java`, `Ruby`, `Angular` | Florianópolis | [Lista](https://www.improving.com.br/)
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2NJhKkh)
 [KM Online](https://kmonline.com.br/) | `Ruby`, `Elixir`, `MongoDB` | Saco Grande, Florianópolis | 
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2QyNhUm)
@@ -46,14 +49,18 @@ Nome | Tecnologias | Localização |    Vagas
 [Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis | [Currículo](https://bit.ly/2OskYWp)
 [Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2NKmohY)
 [Nextt](https://www.nextt.com.br/) | `Node.js`, `PHP`, `Angular` | Centro, Florianópolis | [Lista](https://bit.ly/2QuEd2S)
+[Peixe Urbano](https://www.peixeurbano.com.br/) | `Java`, `Scala` | João Paulo, Florianópolis | [Lista](https://site.vagas.com.br/VagasDe1Empr.asp?t=5441)
 [PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular` | Pedra Branca, Palhoça | 
 [Progic](http://progic.com.br/) | `Java`, `JSF`,`VueJS`, `C++`, `Flash` | Itacorubi, Florianópolis | [Contato](https://bit.ly/2DdUFSP)
 [Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xeH3AX)
+[Segware](http://www.segware.com.br/) | `Java`, `MySQL`, `MongoDB` | Santa Mônica, Florianópolis | [Lista](http://www.selecaodevagas.com.br/vacancies/opened?what=Segware)
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis | 
 [SocialBase](https://socialbase.com.br/) | `PHP`, `MySQL` | Florianópolis | [Lista](https://bit.ly/1XA0J7v)
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis | [Lista](https://bit.ly/2QByvwq)
+[Stock & Info](http://www.stockinfo.com.br/) | `Java`, `MySQL` | Trindade, FLorianópolis | [Currículo](http://www.stockinfo.com.br/#?secao=trabalheConosco&)
 [SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2OniZlX)
 [Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis | [Lista](https://bit.ly/2xitwaM)
+[Supero](https://www.supero.com.br/) | `Java`, `C#`, `PHP`, `Python`, `Angular` | Itacorubi, Florianópolis | [Lista](https://www.supero.com.br/trabalhe-conosco/)
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade  | [Contato](https://bit.ly/2JEGjcR)
 [Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis | [Lista](https://bit.ly/2D0qbDF)
 [TodoBit](http://todobit.com.br/) | `PHP`,  `JavaScript` | Forquilhinhas, São José | 
