@@ -53,7 +53,7 @@ Nome | Tecnologias | Localização |    Vagas
 [PopApps](https://www.popapps.com.br/) | `PHP`, `React` e `Angular` | Pedra Branca, Palhoça | 
 [Progic](http://progic.com.br/) | `Java`, `JSF`,`VueJS`, `C++`, `Flash` | Itacorubi, Florianópolis | [Contato](https://bit.ly/2DdUFSP)
 [Resultados Digitais](https://resultadosdigitais.com.br/) | `Ruby`, `Go`, `Elixir`, `Java`, `Ember` e `React` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xeH3AX)
-[Segware](http://www.segware.com.br/) | `Java`, `MySQL`, `MongoDB` | Santa Mônica, Florianópolis | [Lista](http://www.selecaodevagas.com.br/vacancies/opened?what=Segware)
+[Segware](http://www.segware.com.br/) | `Java`, `Javascript`, `React`, `React-native`, `GraphQL`, `MySQL`, `MongoDB` | Santa Mônica, Florianópolis | [Lista](http://www.selecaodevagas.com.br/vacancies/opened?what=Segware)
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis | 
 [SocialBase](https://socialbase.com.br/) | `PHP`, `MySQL` | Florianópolis | [Lista](https://bit.ly/1XA0J7v)
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis | [Lista](https://bit.ly/2QByvwq)
