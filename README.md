@@ -38,6 +38,7 @@ Nome | Tecnologias | Localização |    Vagas
 [Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José | [Currículo](https://bit.ly/2qXEVcY)
 [Improving](https://www.improving.com.br/) | `Java`, `Ruby`, `Angular` | Florianópolis | [Lista](https://www.improving.com.br/)
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2NJhKkh)
+[Kiper](kiper.com.br) | `React Native`, `C#` | Santa Monica. Florianópolis | [Lista](http://kiper.com.br/trabalhe-conosco/)
 [KM Online](https://kmonline.com.br/) | `Ruby`, `Elixir`, `MongoDB` | Saco Grande, Florianópolis | 
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2QyNhUm)
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis | [Lista](https://bit.ly/2syTjMF)
