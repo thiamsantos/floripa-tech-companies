@@ -18,6 +18,7 @@ Nome | Tecnologias | Localização |    Vagas
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xl81q8)  
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis | [Lista](https://bit.ly/2NezJPS)
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis |
+[Biologia Total](https://www.biologiatotal.com.br/) | `Kotlin`, `PHP` | Trindade, Florianópolis | 
 [Bravi](https://www.bravi.com.br/) | `Java`, `Angular`, `PHP`, `NodeJS`, `Python`, `C#`, `MySQL`, `PostgreSQL` | Santa Mônica, Florianópolis | [Lista](https://www.bravi.com.br/)
 [BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis | [Lista](https://bit.ly/2NSDXwo)
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel` | 
