@@ -12,6 +12,7 @@ Para as vagas, defina como:
     
 Nome | Tecnologias | Localização |    Vagas      
 ---- | ----------- | ----------- | -----------
+[AgileProcess](http://agileprocess.com.br/) | `JavaScript`, `Java`, `C#`, `Python`, `Kotlin`, `MySQL` | João Paulo, Florianópolis |
 [Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python` | Saco Grande, Florianópolis | 
 [Ahgora Sistemas](https://www.ahgora.com.br) | `PHP`, `Node.js`, `React`, `Vue.js`, `Angular` |  ParqTec Alfa - João Paulo, Florianópolis |
 [Apollus](http://apollusehs.com.br/) | `Java`, `AngularJS`, `Angular`, `Redis`, `PostgreSQL` | Kobrassol, São José |
