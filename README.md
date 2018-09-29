@@ -30,6 +30,7 @@ Nome | Tecnologias | Localização |    Vagas
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa, Florianópolis | [Lista](https://bit.ly/2D3C5wB)
 [Conta Mínima](https://www.contaminima.com.br/) | `Java`, `Ionic/Android` | Barreiros, São José |
 [Decora](https://cora.creativedrive.com/) | `Java`, `Angular` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xobvYU)
+[Delivery Much](https://deliverymuch.com.br/) | `NodeJS`, `MongoDB`, `MySQL`, `Swift`, `Kotlin` | João Paulo, Florianópolis | [Lista](https://carreiras.deliverymuch.com.br/)
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2xdPsVg)
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis | 
 [Geomais](http://www.geomais.com.br/) | `Java`, `Javascript`, `React`, `GeoServer`, `Redis`, `PostgreSQL` | Campinas, São José | 
