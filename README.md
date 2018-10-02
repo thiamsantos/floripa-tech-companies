@@ -1,4 +1,7 @@
 # floripa-tech-companies
+Lista de empresas de tecnologia em Floripa e região.
+
+Para saber como contribuir, olhe o [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Empresas
     
