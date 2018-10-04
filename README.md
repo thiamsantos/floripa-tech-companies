@@ -1,13 +1,6 @@
 # floripa-tech-companies
 Lista de empresas de tecnologia em Floripa e região.
 
-Por favor, envie um pull request se você tiver quaisquer adições ou alterações.
-
-Para as vagas, defina como:
-* Lista: listagem de vagas abertas
-* Contato: contato com setor de RH
-* Currículo: sistema para cadastro de currículo
-
 ## Empresas
     
 Nome | Tecnologias | Localização |    Vagas      
@@ -73,6 +66,11 @@ Nome | Tecnologias | Localização |    Vagas
 [Vios](http://vios.com.br/) | `PHP` | Florianópolis |
 [Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis |
 [Winker](https://www.winker.com.br/) | `PHP` | Florianópolis |
+
+
+## Como contribuir
+
+Leia nosso guia de contribuição [aqui](CONTRIBUTING.md)
 
 ## Contribuidores
 
