@@ -1,8 +1,6 @@
 # floripa-tech-companies
 Lista de empresas de tecnologia em Floripa e região.
 
-Para saber como contribuir, olhe o [CONTRIBUTING.md](CONTRIBUTING.md)
-
 ## Empresas
     
 Nome | Tecnologias | Localização |    Vagas      
@@ -68,6 +66,11 @@ Nome | Tecnologias | Localização |    Vagas
 [Vios](http://vios.com.br/) | `PHP` | Florianópolis |
 [Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis |
 [Winker](https://www.winker.com.br/) | `PHP` | Florianópolis |
+
+
+## Como contribuir
+
+Leia nosso guia de contribuição [aqui](CONTRIBUTING.md)
 
 ## Contribuidores
 
