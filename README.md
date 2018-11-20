@@ -42,7 +42,7 @@ Nome | Tecnologias | Localização |    Vagas
 [Mint](http://mintlab.com.br/) | `PHP`, `Javascript`, `AngularJS`, `Ionic` | Santa Mônica, Florianópolis | 
 [MobLee](https://www.moblee.com.br) | `React`, `GraphQL`, `JS`, `PHP` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2I605gY)
 [Myreks](https://www.myreks.com/) | `Python` | João Paulo, Florianópolis | 
-[myTapp](https://www.mytapp.com.br) | `Node.js`, `AngularJS`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis | 
+[myTapp](https://www.mytapp.com.br) | `Node.js`, `AngularJS`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis | [Lista](https://github.com/myTapp/temos-vagas)
 [Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis | [Currículo](https://bit.ly/2OskYWp)
 [Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2NKmohY)
 [Nextt](https://www.nextt.com.br/) | `Node.js`, `PHP`, `Angular` | Centro, Florianópolis | [Lista](https://bit.ly/2QuEd2S)
