@@ -21,7 +21,7 @@ Nome | Tecnologias | Localização |    Vagas
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição | [Lista](https://bit.ly/2zRlUjS)
 [Cheesecake Labs](https://cheesecakelabs.com/) | `ReactJS`, `Angular`, `JavaScript`, `Django`, `Python`, `Swift`, `Kotlin` | Trindade, Florianópolis | [Lista](https://bit.ly/2NfL81X)
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa, Florianópolis | [Lista](https://bit.ly/2D3C5wB)
-[Compass](https://conpass.io/) | `Node.js`, `React`, `MongoDB` | 
+[Conpass](https://conpass.io/) | `Node.js`, `React`, `MongoDB` | [Lista](http://trabalheconosco.conpass.io/)
 [Conta Mínima](https://www.contaminima.com.br/) | `Java`, `Ionic/Android` | Barreiros, São José |
 [Decora](https://cora.creativedrive.com/) | `Java`, `Angular` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xobvYU)
 [Delivery Much](https://deliverymuch.com.br/) | `NodeJS`, `MongoDB`, `MySQL`, `Swift`, `Kotlin` | João Paulo, Florianópolis | [Lista](https://carreiras.deliverymuch.com.br/)
@@ -31,6 +31,7 @@ Nome | Tecnologias | Localização |    Vagas
 [GeekHunter](https://www.geekhunter.com.br/) | `Java`, `Python`, `Rails` | João Paulo, Florianópolis | 
 [GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis  | [Contato](https://bit.ly/2xn5MT5)
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis | 
+[Loadsmart](https://loadsmart.com/) | `Python` | Florianópolis | [Lista](https://jobs.lever.co/loadsmart)
 [INBEP](http://inbep.com.br/) | `PHP`, `PostgreSQL` | Itacorubi, Florianópolis | 
 [Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José | [Currículo](https://bit.ly/2qXEVcY)
 [Improving](https://www.improving.com.br/) | `Java`, `Ruby`, `Angular` | Florianópolis | [Lista](https://www.improving.com.br/)
