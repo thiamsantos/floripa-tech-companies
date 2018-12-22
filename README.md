@@ -74,6 +74,7 @@ Nome | Tecnologias | Localização | Vagas
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade  | [Contato](https://bit.ly/2JEGjcR)
 [Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis | [Lista](https://bit.ly/2D0qbDF)
 [TodoBit](http://todobit.com.br/) | `PHP`,  `JavaScript` | Forquilhinhas, São José |
+[TutorMundi](https://www.tutormundi.com/) | `NodeJs`, `MongoDB`, `JavaScript`, `React` | Florianópolis | [Contato](https://www.tutormundi.com/contact)
 [Vios](http://vios.com.br/) | `PHP` | Florianópolis |
 [Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis |
 [Winker](https://www.winker.com.br/) | `PHP` | Florianópolis |
