@@ -4,8 +4,8 @@ Lista de empresas de tecnologia em Floripa e região.
 
 ## Empresas
 
-Nome | Tecnologias | Localização |    Vagas
----- | ----------- | ----------- | -----------
+Nome | Tecnologias | Localização | Vagas
+---- | ----------- | ----------- | -----
 [AgileProcess](http://agileprocess.com.br/) | `JavaScript`, `Java`, `C#`, `Python`, `Kotlin`, `MySQL` | João Paulo, Florianópolis |
 [Agrosatelite](http://agrosatelite.com.br/pt/home/) | `Python` | Saco Grande, Florianópolis |
 [Ahgora Sistemas](https://www.ahgora.com.br) | `PHP`, `Node.js`, `React`, `Vue.js`, `Angular` |  ParqTec Alfa - João Paulo, Florianópolis |
@@ -14,6 +14,7 @@ Nome | Tecnologias | Localização |    Vagas
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis | [Lista](https://bit.ly/2NezJPS)
 [Axado](https://www.axado.com.br/) | `Python` | Centro, Florianópolis |
 [Biologia Total](https://www.biologiatotal.com.br/) | `Kotlin`, `PHP` | Trindade, Florianópolis |
+[Blueticket](https://www.blueticket.com.br/) | `PHP`, `Laravel`, `Vue.Js`, `MySQL` | Florianópolis | [Lista](https://blueticket.recruiterbox.com/)
 [Bravi](https://www.bravi.com.br/) | `Java`, `Angular`, `PHP`, `NodeJS`, `Python`, `C#`, `MySQL`, `PostgreSQL` | Santa Mônica, Florianópolis | [Lista](https://www.bravi.com.br/)
 [BRy](https://www.bry.com.br/) | `Java`, `C++`, `C#`, `PHP` | Trindade, Florianópolis | [Lista](https://bit.ly/2NSDXwo)
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel` |
