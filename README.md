@@ -63,6 +63,7 @@ Nome | Tecnologias | Localização |    Vagas
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis | [Lista](https://bit.ly/2QByvwq)
 [Stock & Info](http://www.stockinfo.com.br/) | `FileMaker`, `Java`, `JavaScript`, `AngularJS`, `React-native`, `Ionic`, `C#`, `MySQL`, `PHP`  | Trindade, Florianópolis | [Contato](rh@stockinfo.com.br)
 [Stormtech](http://www.stormtech.com.br/) | `Python`, `PHP`, `Django`, `Angular`, `MySQL`, `PostgreSQL`, `DynamoDB`, `AWS Lambda` | Itacorubi, Florianópolis | [Contato](https://bit.ly/2xr9X0Y)
+[Sumá](appsuma.com.br) | `NodeJS`, `MongoDB`, `React` | Florianópolis | [Contato](http://appsuma.com.br/contato/)
 [SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2OniZlX)
 [Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis | [Lista](https://bit.ly/2xitwaM)
 [Supero](https://www.supero.com.br/) | `Java`, `C#`, `PHP`, `Python`, `Angular` | Itacorubi, Florianópolis | [Lista](https://www.supero.com.br/trabalhe-conosco/)
