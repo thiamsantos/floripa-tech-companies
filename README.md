@@ -24,6 +24,7 @@ Nome | Tecnologias | Localização | Vagas
 [Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição | [Lista](https://bit.ly/2zRlUjS)
 [Cheesecake Labs](https://cheesecakelabs.com/) | `ReactJS`, `Angular`, `JavaScript`, `Django`, `Python`, `Swift`, `Kotlin` | Trindade, Florianópolis | [Lista](https://bit.ly/2NfL81X)
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa, Florianópolis | [Lista](https://bit.ly/2D3C5wB)
+[Codeminer 42](https://www.codeminer42.com/) | `Rails`, `NodeJS`, `JavaScript`, `React`, `VueJS` | Florianópolis | [Contato](https://www.codeminer42.com/#codeSection6)
 [Compufácil](https://compufacil.com.br/) | `JavaScript` | Saco Grande, Florianópolis |
 [Conpass](https://conpass.io/) | `Node.js`, `React`, `MongoDB` | Florianópolis | [Lista](http://trabalheconosco.conpass.io/)
 [Conta Mínima](https://www.contaminima.com.br/) | `Java`, `Ionic/Android` | Barreiros, São José |
