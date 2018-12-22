@@ -28,6 +28,7 @@ Nome | Tecnologias | Localização | Vagas
 [Compufácil](https://compufacil.com.br/) | `JavaScript` | Saco Grande, Florianópolis |
 [Conpass](https://conpass.io/) | `Node.js`, `React`, `MongoDB` | Florianópolis | [Lista](http://trabalheconosco.conpass.io/)
 [Conta Mínima](https://www.contaminima.com.br/) | `Java`, `Ionic/Android` | Barreiros, São José |
+[Datarisk](http://datarisk.io/) | `Javascript`, `React` | Florianópolis | [Contato](http://datarisk.io/contato/)
 [Decora](https://cora.creativedrive.com/) | `Java`, `Angular` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xobvYU)
 [Delivery Much](https://deliverymuch.com.br/) | `NodeJS`, `MongoDB`, `MySQL`, `Swift`, `Kotlin` | João Paulo, Florianópolis | [Lista](https://carreiras.deliverymuch.com.br/)
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2xdPsVg)
