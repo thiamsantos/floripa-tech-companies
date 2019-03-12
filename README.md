@@ -54,7 +54,7 @@ Nome | Tecnologias | Localização | Vagas
 [Myreks](https://www.myreks.com/) | `Python` | João Paulo, Florianópolis |
 [myTapp](https://www.mytapp.com.br) | `Node.js`, `AngularJS`, `Vue`, `PostgreSQL`, `Electron`, `Cordova` | Trindade, Florianópolis | [Lista](https://github.com/myTapp/temos-vagas)
 [Neoprospecta](https://neoprospecta.com/) | `Python` | Cachoeira do Bom Jesus, Florianópolis | [Currículo](https://bit.ly/2OskYWp)
-[Neoway](https://www.neoway.com.br/) | `Go` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2NKmohY)
+[Neoway](https://www.neoway.com.br/) | `Go`, `NodeJS`, `AngularJS`, `Angular`, `Vue`, `Polymer`, `MongoDB`, `Elasticsearch`, `Neo4j`, `Graphql` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2NKmohY)
 [Nextt](https://www.nextt.com.br/) | `Node.js`, `PHP`, `Angular` | Centro, Florianópolis | [Lista](https://bit.ly/2QuEd2S)
 [Peixe Urbano](https://www.peixeurbano.com.br/) | `Java`, `Scala` | João Paulo, Florianópolis | [Lista](https://site.vagas.com.br/VagasDe1Empr.asp?t=5441)
 [Pixeon](https://www.pixeon.com/) | `Java` | Florianópolis | [Lista](https://www.pixeon.com/sobre-a-pixeon/carreira/)
