@@ -30,7 +30,7 @@ Nome | Tecnologias | Localização | Vagas
 [Conta Mínima](https://www.contaminima.com.br/) | `Java`, `Ionic/Android` | Barreiros, São José |
 [Datarisk](http://datarisk.io/) | `Javascript`, `React` | Florianópolis | [Contato](http://datarisk.io/contato/)
 [Decora](https://cora.creativedrive.com/) | `Java`, `Angular` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xobvYU)
-[Delivery Much](https://deliverymuch.com.br/) | `NodeJS`, `MongoDB`, `MySQL`, `Swift`, `Kotlin` | João Paulo, Florianópolis | [Lista](https://carreiras.deliverymuch.com.br/)
+[Delivery Much](https://deliverymuch.com.br/) | `NodeJS`, `Go`, `MongoDB`, `MySQL`, `Swift`, `Kotlin`, `VueJS` | João Paulo, Florianópolis | [Lista](https://carreiras.deliverymuch.com.br/)
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2xdPsVg)
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis |
 [Exact Sales](https://exactsales.com.br/) | `Javascript`, `ReactJS`, `Redux`, `C#`, `SQL Server` | João Paulo, Florianópolis | [Lista](https://exactsales.gupy.io/)
