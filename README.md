@@ -12,6 +12,7 @@ Nome | Tecnologias | Localização | Vagas
 [Apollus](http://apollusehs.com.br/) | `Java`, `AngularJS`, `Angular`, `Redis`, `PostgreSQL` | Kobrassol, São José |
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xl81q8)
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis | [Lista](https://bit.ly/2NezJPS)
+[Aurum](https://www.aurum.com.br/) | `Angular`, `Python`, `React` | Santa Mônica, Florianópolis | [Lista](https://jobs.kenoby.com/aurum)
 [Avanti!](http://penseavanti.com.br/) | `JavaScript`, `jQuery`, `React`| Itacorubi, Florianópolis | [Contato](http://penseavanti.com.br/#contato)
 [Axado](https://axado.mercadolivre.com.br/) | `Python` | Centro, Florianópolis |
 [Biologia Total](https://www.biologiatotal.com.br/) | `Kotlin`, `PHP` | Trindade, Florianópolis |
@@ -70,7 +71,6 @@ Nome | Tecnologias | Localização | Vagas
 [Stock & Info](http://www.stockinfo.com.br/) | `FileMaker`, `Java`, `JavaScript`, `AngularJS`, `React-native`, `Ionic`, `C#`, `MySQL`, `PHP`  | Trindade, Florianópolis | [Contato](rh@stockinfo.com.br)
 [Stormtech](http://www.stormtech.com.br/) | `Python`, `PHP`, `Django`, `Angular`, `MySQL`, `PostgreSQL`, `DynamoDB`, `AWS Lambda` | Itacorubi, Florianópolis | [Contato](https://bit.ly/2xr9X0Y)
 [Sumá](appsuma.com.br) | `NodeJS`, `MongoDB`, `React` | Florianópolis | [Contato](http://appsuma.com.br/contato/)
-[SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2OniZlX)
 [Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis | [Lista](https://bit.ly/2xitwaM)
 [Supero](https://www.supero.com.br/) | `Java`, `C#`, `PHP`, `Python`, `Angular` | Itacorubi, Florianópolis | [Lista](https://www.supero.com.br/trabalhe-conosco/)
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade  | [Contato](https://bit.ly/2JEGjcR)
@@ -80,6 +80,8 @@ Nome | Tecnologias | Localização | Vagas
 [Vios](http://vios.com.br/) | `PHP` | Florianópolis |
 [Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis |
 [Winker](https://www.winker.com.br/) | `PHP` | Florianópolis |
+[Zygo](https://site.zygotecnologia.com/home) | `Ruby`, `React`, `Python` e `NodeJS` | Santa Monica, Florianópolis | [Lista](https://jobs.kenoby.com/zygo)
+
 
 
 ## Como contribuir
