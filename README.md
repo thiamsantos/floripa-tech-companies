@@ -34,7 +34,7 @@ Nome | Tecnologias | Localização | Vagas
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2xdPsVg)
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis |
 [Exact Sales](https://exactsales.com.br/) | `Javascript`, `ReactJS`, `Redux`, `C#`, `SQL Server` | João Paulo, Florianópolis | [Lista](https://exactsales.gupy.io/)
-[Fundação CERTI](https://www.certi.org.br/) | `Javascript`, `React`, `Node.js`, `Python`, `Electron`, `Kotlin` | Pantanal (UFSC), Florianópolis | [Lista](https://certi.enlizt.me/)
+[Fundação CERTI](https://www.certi.org.br/) | `Javascript`, `React`, `Node.js`, `Python`, `Electron`, `Kotlin`, `Flutter` | Pantanal (UFSC), Florianópolis | [Lista](https://certi.enlizt.me/)
 [Geomais](http://www.geomais.com.br/) | `Java`, `Javascript`, `React`, `GeoServer`, `Redis`, `PostgreSQL` | Campinas, São José |
 [GeekHunter](https://www.geekhunter.com.br/) | `Java`, `Python`, `Rails` | João Paulo, Florianópolis |
 [GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis  | [Contato](https://bit.ly/2xn5MT5)
