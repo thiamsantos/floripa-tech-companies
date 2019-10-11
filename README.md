@@ -71,7 +71,7 @@ Nome | Tecnologias | Localização | Vagas
 [Stock & Info](http://www.stockinfo.com.br/) | `FileMaker`, `Java`, `JavaScript`, `AngularJS`, `React-native`, `Ionic`, `C#`, `MySQL`, `PHP`  | Trindade, Florianópolis | [Contato](rh@stockinfo.com.br)
 [Stormtech](http://www.stormtech.com.br/) | `Python`, `PHP`, `Django`, `Angular`, `MySQL`, `PostgreSQL`, `DynamoDB`, `AWS Lambda` | Itacorubi, Florianópolis | [Contato](https://bit.ly/2xr9X0Y)
 [Sumá](appsuma.com.br) | `NodeJS`, `MongoDB`, `React` | Florianópolis | [Contato](http://appsuma.com.br/contato/)
-[Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis | [Lista](https://bit.ly/2xitwaM)
+[Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python`, `React`, `Vue.Js` | Centro, Florianópolis | [Lista](https://suntechverintgroup.recruiterbox.com/)
 [Supero](https://www.supero.com.br/) | `Java`, `C#`, `PHP`, `Python`, `Angular` | Itacorubi, Florianópolis | [Lista](https://www.supero.com.br/trabalhe-conosco/)
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade  | [Contato](https://bit.ly/2JEGjcR)
 [Teltec Solutions](http://teltecsolutions.com.br/) | `C#` | Coqueiros, Florianópolis | [Lista](https://bit.ly/2D0qbDF)
