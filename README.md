@@ -12,6 +12,7 @@ Nome | Tecnologias | Localização | Vagas
 [Apollus](http://apollusehs.com.br/) | `Java`, `AngularJS`, `Angular`, `Redis`, `PostgreSQL` | Kobrassol, São José |
 [ArcTouch](https://arctouch.com/) | `Java`, `Kotlin`, `Swift` | Saco Grande, Florianópolis | [Lista](https://bit.ly/2xl81q8)
 [Audaces](https://www.audaces.com/) |  `Angular`, `C#`, `C++`, `Java`, `Javascript`, `Python`, `SQL Server`, `PostgreSQL`, `Typescript` | João Paulo, Florianópolis | [Lista](https://bit.ly/2NezJPS)
+[Aurum](https://www.aurum.com.br/) | `Angular`, `Python`, `React` | Santa Mônica, Florianópolis | [Lista](https://jobs.kenoby.com/aurum)
 [Avanti!](http://penseavanti.com.br/) | `JavaScript`, `jQuery`, `React`| Itacorubi, Florianópolis | [Contato](http://penseavanti.com.br/#contato)
 [Axado](https://axado.mercadolivre.com.br/) | `Python` | Centro, Florianópolis |
 [Biologia Total](https://www.biologiatotal.com.br/) | `Kotlin`, `PHP` | Trindade, Florianópolis |
@@ -34,7 +35,7 @@ Nome | Tecnologias | Localização | Vagas
 [Dígitro Tecnologia](http://www.digitro.com/pt/) | `Javascript`, `Ember`, `Erlang`, `MongoDB`, `Java` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2xdPsVg)
 [Ecentry](http://ecentry.com/) | `Python`, `Javascript`, `Angular` | Centro, Florianópolis |
 [Exact Sales](https://exactsales.com.br/) | `Javascript`, `ReactJS`, `Redux`, `C#`, `SQL Server` | João Paulo, Florianópolis | [Lista](https://exactsales.gupy.io/)
-[Fundação CERTI](https://www.certi.org.br/) | `Javascript`, `React`, `Node.js`, `Python`, `Electron`, `Kotlin` | Pantanal (UFSC), Florianópolis | [Lista](https://certi.enlizt.me/)
+[Fundação CERTI](https://www.certi.org.br/) | `Javascript`, `React`, `Node.js`, `Python`, `Electron`, `Kotlin`, `Flutter` | Pantanal (UFSC), Florianópolis | [Lista](https://certi.enlizt.me/)
 [Geomais](http://www.geomais.com.br/) | `Java`, `Javascript`, `React`, `GeoServer`, `Redis`, `PostgreSQL` | Campinas, São José |
 [GeekHunter](https://www.geekhunter.com.br/) | `Java`, `Python`, `Rails` | João Paulo, Florianópolis |
 [GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis  | [Contato](https://bit.ly/2xn5MT5)
@@ -70,7 +71,6 @@ Nome | Tecnologias | Localização | Vagas
 [Stock & Info](http://www.stockinfo.com.br/) | `FileMaker`, `Java`, `JavaScript`, `AngularJS`, `React-native`, `Ionic`, `C#`, `MySQL`, `PHP`  | Trindade, Florianópolis | [Contato](rh@stockinfo.com.br)
 [Stormtech](http://www.stormtech.com.br/) | `Python`, `PHP`, `Django`, `Angular`, `MySQL`, `PostgreSQL`, `DynamoDB`, `AWS Lambda` | Itacorubi, Florianópolis | [Contato](https://bit.ly/2xr9X0Y)
 [Sumá](appsuma.com.br) | `NodeJS`, `MongoDB`, `React` | Florianópolis | [Contato](http://appsuma.com.br/contato/)
-[SumOne](http://www.sumone.com.br/) | `Ruby`, `React`, `Python` e `NodeJS` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2OniZlX)
 [Suntech](http://suntech.com.br/) | `Java`, `Angular`, `C++`, `Python` | Centro, Florianópolis | [Lista](https://bit.ly/2xitwaM)
 [Supero](https://www.supero.com.br/) | `Java`, `C#`, `PHP`, `Python`, `Angular` | Itacorubi, Florianópolis | [Lista](https://www.supero.com.br/trabalhe-conosco/)
 [Taller](http://taller.net.br/) | `JavaScript`, `React`, `PHP`, `Drupal` | Remoto, as vezes nos coworkings da cidade  | [Contato](https://bit.ly/2JEGjcR)
@@ -80,6 +80,8 @@ Nome | Tecnologias | Localização | Vagas
 [Vios](http://vios.com.br/) | `PHP` | Florianópolis |
 [Web em Segundos](http://www.webemsegundos.com.br/) | `PHP` | Florianópolis |
 [Winker](https://www.winker.com.br/) | `PHP` | Florianópolis |
+[Zygo](https://site.zygotecnologia.com/home) | `Ruby`, `React`, `Python` e `NodeJS` | Santa Monica, Florianópolis | [Lista](https://jobs.kenoby.com/zygo)
+
 
 
 ## Como contribuir
@@ -93,7 +95,7 @@ Leia nosso guia de contribuição [aqui](CONTRIBUTING.md)
 | [<img src="https://avatars3.githubusercontent.com/u/8432403?v=4&s=115"><br><sub>@roquef</sub>](https://github.com/roquef) | [<img src="https://avatars2.githubusercontent.com/u/7440284?v=4&s=115"><br><sub>@ppaulogustavo</sub>](https://github.com/ppaulogustavo) | [<img src="https://avatars0.githubusercontent.com/u/9438853?v=4&s=115"><br><sub>@telmotrooper</sub>](https://github.com/telmotrooper) | [<img src="https://avatars0.githubusercontent.com/u/17464598?v=4&s=115"><br><sub>@jhonatanmorais</sub>](https://github.com/jhonatanmorais) | [<img src="https://avatars3.githubusercontent.com/u/12588636?v=4&s=115"><br><sub>@fernandeshenrique15</sub>](https://github.com/fernandeshenrique15) | [<img src="https://avatars2.githubusercontent.com/u/2688512?v=4&s=115"><br><sub>@lucasconstantino</sub>](https://github.com/lucasconstantino) |
 | [<img src="https://avatars2.githubusercontent.com/u/29691768?v=4&s=115"><br><sub>@gugutz</sub>](https://github.com/gugutz) | [<img src="https://avatars0.githubusercontent.com/u/4699689?v=4&s=115"><br><sub>@munizart</sub>](https://github.com/munizart) | [<img src="https://avatars2.githubusercontent.com/u/8865899?v=4&s=115"><br><sub>@victorfeijo</sub>](https://github.com/victorfeijo) | [<img src="https://avatars0.githubusercontent.com/u/153531?v=4&s=115"><br><sub>@rgazeredo</sub>](https://github.com/rgazeredo) | [<img src="https://avatars3.githubusercontent.com/u/16259047?v=4&s=115"><br><sub>@williangd</sub>](https://github.com/williangd) | [<img src="https://avatars0.githubusercontent.com/u/228165?v=4&s=115"><br><sub>@eduardovra</sub>](https://github.com/eduardovra) |
 | [<img src="https://avatars3.githubusercontent.com/u/4164448?v=4&s=115"><br><sub>@leogreal</sub>](https://github.com/leogreal) | [<img src="https://avatars0.githubusercontent.com/u/14227409?v=4&s=115"><br><sub>@luansievers</sub>](https://github.com/luansievers) | [<img src="https://avatars1.githubusercontent.com/u/7604033?v=4&s=115"><br><sub>@arojunior</sub>](https://github.com/arojunior) | [<img src="https://avatars2.githubusercontent.com/u/22552690?s=115&v=4"><br><sub>@felipexmitz</sub>](https://github.com/felipexmitz) | [<img src="https://avatars2.githubusercontent.com/u/15040760?s=115&v=4"><br><sub>@Jack3Dz</sub>](https://github.com/Jack3Dz) | [<img src="https://avatars0.githubusercontent.com/u/853019?s=115&v=4"><br><sub>@m4rcelofs</sub>](https://github.com/m4rcelofs) |
-| [<img src="https://avatars3.githubusercontent.com/u/41922744?v=4&s=115"><br><sub>@kaiofelipejs</sub>](https://github.com/kaiofelipejs) |
+| [<img src="https://avatars3.githubusercontent.com/u/41922744?v=4&s=115"><br><sub>@kaiofelipejs</sub>](https://github.com/kaiofelipejs) | [<img src="https://avatars3.githubusercontent.com/u/33424276?s=115&v=4"><br><sub>@jrezzende</sub>](https://github.com/jrezzende) | 
 
 ## Licença
 
