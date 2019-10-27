@@ -68,6 +68,7 @@ Nome | Tecnologias | Localização | Vagas
 [Smarket Solutions](http://www.smarketsolutions.com.br/) | `Python` | Itacorubi, Florianópolis |
 [SocialBase](https://socialbase.com.br/) | `PHP`, `MySQL` | Florianópolis | [Lista](https://bit.ly/1XA0J7v)
 [Softplan](https://www.softplan.com.br/) | `Java`, `Angular`, `Delphi`, `Python`, `PHP` | João Paulo, Florianópolis | [Lista](https://bit.ly/2QByvwq)
+[Stairs Creative Studio](https://stairs.studio/) | `Go`, `PHP`, `JavaScript`, `Angular`, `Ionic`, `MongoDB` | Centro, Florianópolis | [Lista](http://stairs.studio/trabalhe-conosco/)
 [Stock & Info](http://www.stockinfo.com.br/) | `FileMaker`, `Java`, `JavaScript`, `AngularJS`, `React-native`, `Ionic`, `C#`, `MySQL`, `PHP`  | Trindade, Florianópolis | [Contato](rh@stockinfo.com.br)
 [Stormtech](http://www.stormtech.com.br/) | `Python`, `PHP`, `Django`, `Angular`, `MySQL`, `PostgreSQL`, `DynamoDB`, `AWS Lambda` | Itacorubi, Florianópolis | [Contato](https://bit.ly/2xr9X0Y)
 [Sumá](appsuma.com.br) | `NodeJS`, `MongoDB`, `React` | Florianópolis | [Contato](http://appsuma.com.br/contato/)
