@@ -15,6 +15,7 @@ Nome | Tecnologias | Localização | Vagas
 [Aurum](https://www.aurum.com.br/) | `Java`, `Kotlin`,`NodeJS`, `Python`,`Angular`, `React`, `React Native` | Santa Mônica, Florianópolis | [Lista](https://jobs.kenoby.com/aurum)
 [Avanti!](http://penseavanti.com.br/) | `JavaScript`, `jQuery`, `React`| Itacorubi, Florianópolis | [Contato](http://penseavanti.com.br/#contato)
 [Axado](https://axado.mercadolivre.com.br/) | `Python` | Centro, Florianópolis |
+[BDR](http://empresabdr.com.br) | `Java`, `Angular`, `Ionic`| João Paulo, Florianópolis | [Lista](http://empresabdr.com.br/vagas.php)
 [Biologia Total](https://www.biologiatotal.com.br/) | `Kotlin`, `PHP` | Trindade, Florianópolis |
 [Blueticket](https://www.blueticket.com.br/) | `PHP`, `Laravel`, `Vue.Js`, `MySQL` | Florianópolis | [Lista](https://blueticket.recruiterbox.com/)
 [Bravi](https://www.bravi.com.br/) | `Java`, `Angular`, `PHP`, `NodeJS`, `Python`, `C#`, `MySQL`, `PostgreSQL` | Santa Mônica, Florianópolis | [Lista](https://www.bravi.com.br/)
