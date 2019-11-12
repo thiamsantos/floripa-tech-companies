@@ -48,6 +48,7 @@ Nome | Tecnologias | Localização | Vagas
 [Involves](https://www.involves.com.br/pt) | `Java`, `Angular` | Capoeiras, Florianópolis | [Lista](https://bit.ly/2NJhKkh)
 [Kiper](kiper.com.br) | `React Native`, `C#` | Santa Monica. Florianópolis | [Lista](http://kiper.com.br/trabalhe-conosco/)
 [KM Online](https://kmonline.com.br/) | `Ruby`, `Elixir`, `MongoDB` | Saco Grande, Florianópolis |
+[Kyte](https://kyte.com.br/) | `React`, `React Native`, `NodeJS`, `MongoDB` | Saco Grande, Florianópolis |
 [Mais TI Soluções](http://www.maistisolucoes.com.br) | `Advpl`, `Java`, `Python`, `JavaScript`, `JQuery`, `Bootstrap`, `SQL Server` | Areias, São José | [Contato](mailto:atendimento@maistisolucoes.com.br)
 [McFadyen](https://mcfadyen.com/) | `Java` | Itacorubi, Florianópolis | [Lista](https://bit.ly/2QyNhUm)
 [Mercado Livre](https://www.mercadolivre.com.br/) | `Java`, `Groovy` | Centro, Florianópolis | [Lista](https://bit.ly/2syTjMF)
