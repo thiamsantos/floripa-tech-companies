@@ -23,7 +23,6 @@ Nome | Tecnologias | Localização | Vagas
 [Bulldesk](https://bulldesk.com.br/) | `PHP`, `Laravel` |
 [Byne](http://www.byne.com.br/) | `Python` | Saco Grande, Florianópolis |
 [Cellmídia](http://www.cellmidia.com.br/site/) | `PHP` | Florianópolis |
-[Chaordic](https://www.chaordic.com.br/) | `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição | [Lista](https://bit.ly/2zRlUjS)
 [Cheesecake Labs](https://cheesecakelabs.com/) | `ReactJS`, `Angular`, `JavaScript`, `Django`, `Python`, `Swift`, `Kotlin` | Trindade, Florianópolis | [Lista](https://bit.ly/2NfL81X)
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa, Florianópolis | [Lista](https://bit.ly/2D3C5wB)
 [Codeminer 42](https://www.codeminer42.com/) | `Rails`, `NodeJS`, `JavaScript`, `React`, `VueJS` | Florianópolis | [Contato](https://www.codeminer42.com/#codeSection6)
@@ -41,6 +40,7 @@ Nome | Tecnologias | Localização | Vagas
 [GeekHunter](https://www.geekhunter.com.br/) | `Java`, `Python`, `Rails` | João Paulo, Florianópolis |
 [GETMORE](https://getmore.com.br/) | `TypeScript`, `React`, `React Native`, `Node.js`, `Go`, `MongoDB`, `PostgreSQL` | Trindade, Florianópolis  | [Contato](https://bit.ly/2xn5MT5)
 [GnTech](https://www.gntech.med.br/) | `Python` | Centro, Florianópolis |
+[Linx Impulse](https://www.linx.com.br/transformacao-digital/linx-impulse/) | `Javascript`, `Java`, `Scala`, `Python`, `Ruby`, `Node.js`, `React`, `Vue.Js` e `PHP` | Lagoa da Conceição, Florianópolis | [Lista](https://linx.recruiterbox.com/?city=Florian%C3%B3polis)
 [Loadsmart](https://loadsmart.com/) | `Python` | Florianópolis | [Lista](https://jobs.lever.co/loadsmart)
 [INBEP](http://inbep.com.br/) | `PHP`, `PostgreSQL` | Itacorubi, Florianópolis |
 [Intelbras](https://intelbras.com.br) | `Python`, `Go`, `Java`, `C`, `Javascript`, `Lua` | Area Industrial, São José | [Currículo](https://bit.ly/2qXEVcY)
