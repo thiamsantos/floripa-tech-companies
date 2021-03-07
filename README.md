@@ -26,7 +26,7 @@ Nome | Tecnologias | Localização | Vagas
 [Cheesecake Labs](https://cheesecakelabs.com/) | `ReactJS`, `Angular`, `JavaScript`, `Django`, `Python`, `Swift`, `Kotlin` | Trindade, Florianópolis | [Lista](https://bit.ly/2NfL81X)
 [Cianet](https://www.cianet.com.br/) | `Python` | Santo Antônio de Lisboa, Florianópolis | [Lista](https://bit.ly/2D3C5wB)
 [Codeminer 42](https://www.codeminer42.com/) | `Rails`, `NodeJS`, `JavaScript`, `React`, `VueJS` | Florianópolis | 
-[Cognyte](https://www.cognyte.com/) | `Java`, `React` | Centro, Florianópolis | [Currículo](https://www.cognyte.com/careers/locations/br/)
+[Cognyte](https://www.cognyte.com/) | `Java`, `React` | Centro, Florianópolis | [Lista](https://www.cognyte.com/careers/locations/br/)
 [Contato](https://www.codeminer42.com/#codeSection6)
 [Compufácil](https://compufacil.com.br/) | `JavaScript` | Saco Grande, Florianópolis |
 [Conpass](https://conpass.io/) | `Node.js`, `React`, `MongoDB` | Florianópolis | [Lista](http://trabalheconosco.conpass.io/)
